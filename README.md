@@ -1,25 +1,10 @@
 # Presupuestos_PCs
 
-![Presupuesto_logo](https://www.crucial.es/content/dam/crucial/dram-products/desktop/ddr5/images/install/crucial-ddr5-desktop-motherboard-hand-non-blue-image.psd.transform/small-jpg/img.jpg)
+*Se comparan dos ordenadores con diferentes microprocesadores, siendo Intel y AMD.*
 
-*descripcion de presupuesto*
+*El primero, siendo un Intel con un presupuesto superior a 900 euros con componentes que pueden durar entre 3 a 5 años*
 
-[google.com](https://www.google.com)
+*El segundo presupuesto, siendo un AMD con un presupuesto inferior al anterior puede durar la misma duración.*
 
-* [ ] kkjkj
-* [ ] km
-* [ ] mlkmojj
+*La diferencia de ambos ordenadores son esencialmente por el consumidor, dependiendo de la utilización que se le hará al dispositivo.*
 
-> cuota kiakiakia
->
-> fin
-
-```python
-print("hello world")
-```
-
-
-| col1  | col2 | col3 |
-| ------- | ------ | ------ |
-| cosas | 1    | 2    |
-| 1     | 2    | 3    |
